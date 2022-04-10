@@ -1,5 +1,5 @@
 # TP2_RO
-## Le nombre  minimal de cameras qu'on besoin pour surveiller toutes les rues de la zone d'activites est : ** 24.0 Camera **
+### Le nombre  minimal de cameras qu'on besoin pour surveiller toutes les rues de la zone d'activites est :  24.0 Camera 
 
 ## Il faudra placer A :
 - Emplacement 2
